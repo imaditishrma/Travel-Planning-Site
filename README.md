@@ -1,5 +1,5 @@
 # Travel-Planning-Site
-It is a travel planning site to the most beautiful beaches, containing animations, with a dark and light mode as well as chatbot integration using tidio.co chat.
+It is a travel planning site to the most beautiful beaches, containing animations, with a dark and light mode as well as chatbot integration using tidio.
 ![image](https://user-images.githubusercontent.com/72349617/185701188-b19fd2a2-4073-4093-8a03-cc930e9b1d4a.png)
 ![image](https://user-images.githubusercontent.com/72349617/185701404-bcca560e-c9e8-4402-816a-94dc85db5d48.png)
 ![image](https://user-images.githubusercontent.com/72349617/185701426-a5a969b3-198f-430a-9006-0fc255ed71f8.png)
